@@ -12,7 +12,7 @@ program errores
         ndat = ndat +1
     end do
 
-50  write (*,*) 'Se han leido todos los datos. Recuerda cambiar UB'
+50  write (*,*) 'Se han leido todos los datos. Cambiar delta en ua!!!'
 
     media=0.
     bessel= 0.
