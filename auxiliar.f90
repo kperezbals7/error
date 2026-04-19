@@ -1,6 +1,6 @@
 program aux
     real lambda, b, errores, l, a, errora
-
+!cambiar valores a mano
     lambda = 512E-9
     l = 1.1
     b = 3.50E-03
