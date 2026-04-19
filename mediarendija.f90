@@ -2,6 +2,7 @@ program rendija
     real a(3), w(3), er(3), media, erro, sumaa, sumaw
     integer i
 
+! cambiar limites del array a mano 
     open (1, file='datos.dat')
 
     do i=1, 3
