@@ -1,6 +1,7 @@
 program londa
     real l, d, long, eror, u, linea
-
+    
+! cambiar valores a mano
     l = 0.193
     d = 1.57E-02
     linea = (1. / 94488)
